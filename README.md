@@ -11,7 +11,4 @@ Hey There 👋 I'm@beingRish🦥!!
 
 📫 You can contact me on rishabhjuly11@gmail.com
 
-<!---
-beingRish/beingRish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
