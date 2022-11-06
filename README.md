@@ -1,4 +1,4 @@
-Hey There 👋 I'm@beingRish🦥!!
+ # Hey There 👋 I'm @beingRish🦥!!
 
 🎓 About me
 
