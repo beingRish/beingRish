@@ -7,7 +7,7 @@
 • Full Stack Web Developer
 👀 I’m interested in Web Developement
 
-🌱 I’m currently learning Django
+🌱 I’m currently learning Java
 
 📫 You can contact me on rishabhjuly11@gmail.com
 
