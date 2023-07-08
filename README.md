@@ -2,7 +2,7 @@
 
 🎓 About me
 
-• I have recently done MCA from Patliputra University.
+• I have recently completed MCA from Patliputra University.
 
 👀 I’m interested in Web Developement
 
