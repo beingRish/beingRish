@@ -8,6 +8,6 @@
 
 🌱 I’m currently learning FULL STACK JAVA DEVELOPEMENT
 
-📫 You can contact me on rishabhjuly11@gmail.com
+📫 Know more about me here https://rishabh11.netlify.app/
 
 
