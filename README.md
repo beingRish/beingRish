@@ -1,13 +1,12 @@
- # Hey There 👋 I'm @beingRish🦥!!
+ # Hey There 👋 I'm Rishabh 🦥!!
 
 🎓 About me
 
-• I’m currently a student pursuing my Master of Computer Application
+• I have recently done MCA from Patliputra University.
 
-• Full Stack Web Developer
 👀 I’m interested in Web Developement
 
-🌱 I’m currently learning Java
+🌱 I’m currently learning FULL STACK JAVA DEVELOPEMENT
 
 📫 You can contact me on rishabhjuly11@gmail.com
 
