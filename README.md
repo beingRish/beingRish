@@ -6,7 +6,7 @@
 
 👀 I’m interested in Web Developement
 
-🌱 I’m currently learning FULL STACK JAVA DEVELOPEMENT
+🌱 MEAN STACK DEVELOPER
 
 📫 Know more about me here https://rishabh11.netlify.app/
 
